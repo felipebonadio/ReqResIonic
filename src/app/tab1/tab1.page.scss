@@ -1,7 +1,12 @@
-.box{
-    display: grid;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    justify-items: center;
+ion-item{
+    height: 80px
+}
+
+ion-avatar{
+    height: 60px;
+    width: 60px;
+}
+
+ion-label{
+ margin: 14px
 }
